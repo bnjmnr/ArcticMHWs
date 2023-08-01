@@ -1,6 +1,7 @@
 # ArcticMHWs
-Data and code for MHWs in the Arctic project
-The heat budget calculation is done using the model outputs; the tiling of the domain is also part of the pre-processing.
+Data and code for MHWs in the Arctic project.
+
+The heat budget calculation is done using the model outputs; the tiling of the domain is also part of the pre-processing. We only provide post-processed data, as the model outputs are too heavy to be shared through github.
 ## Data
 We provide tiled data:
   * `ClimThreshSmooth_MLT_Tiled3O.nc` : Climatology and threshold used to detect MHWs, calculated using the MHW algorithm from the Hobday et al. 2016 paper
